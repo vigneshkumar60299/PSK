@@ -107,7 +107,7 @@ plt.show()
 
 
 # Results
-```
-Attach the output waveform
-```
+
+Thus PSK and QPSK were performed and the waveform is verified using Google Colab.
+
 # Hardware experiment output waveform.
